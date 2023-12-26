@@ -17,11 +17,11 @@ End to End project from data preparation to deployment using Flask
 ### Steps to run Code
 - Clone the repository.
 ```
-git clone https://github.com/noorkhokhar99/Banana-Ripeness-Detection.git
+git clone https://github.com/Ayush291102/Banana_Ripeness_Stage_Detection.git
 ```
 - Goto the cloned folder.
 ```
-cd Banana-Ripeness-Detection
+cd Banana_Ripeness_Stage_Detection
 
 ```
 - Upgrade pip with mentioned command below.
@@ -42,8 +42,8 @@ streamlit run app.py
 ### Results
 
 
-<img src="https://github.com/noorkhokhar99/Banana-Ripeness-Detection/blob/main/Screen%20Shot%201444-04-06%20at%2011.12.44%20AM.png">
+<img src="https://github.com/Ayush291102/Banana_Ripeness_Stage_Detection/blob/main/Screen%20Shot%201444-04-06%20at%2011.12.44%20AM.png">
 
 
 
-<img src="https://github.com/noorkhokhar99/Banana-Ripeness-Detection/blob/main/testing.png">
+<img src="https://github.com/Ayush291102/Banana_Ripeness_Stage_Detection/blob/main/testing.png">

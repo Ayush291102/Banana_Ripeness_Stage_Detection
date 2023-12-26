@@ -46,4 +46,4 @@ streamlit run app.py
 
 
 
-<img src="https://github.com/Ayush291102/Banana_Ripeness_Stage_Detection/blob/main/testing.png">
+<img src="https://github.com/Ayush291102/Banana_Ripeness_Stage_Detection/blob/main/Testing.png">

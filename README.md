@@ -11,6 +11,14 @@ End to End project from data preparation to deployment using Flask
 - Simple and easy to understand architecture.
 - Web app for testing images in realtime.
 
+  Remember :-
+
+  1. Downgrade the Pillow Version to 9.5
+  2. Python should be less than or equal to 3.11 version
+  3. Use gitBash to open streamlit
+  4. Download the Keras Model from txt file Drive Link
+  5. Run the terminal in which the Keras Model is present too
+
 
 
 

@@ -42,7 +42,7 @@ streamlit run app.py
 ### Results
 
 
-<img src="https://github.com/Ayush291102/Banana_Ripeness_Stage_Detection/blob/main/Screen%20Shot%201444-04-06%20at%2011.12.44%20AM.png">
+
 
 
 
